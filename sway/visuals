@@ -1,0 +1,25 @@
+###########################################################
+# COLOURS.
+#######################################################
+set $bg #282828
+set $unfocusedBorder #433e39
+set $border #dc9260
+set $fg #d4be98
+# order: client.<class> <border> <background> <indicator> <child border>
+client.focused $border      $bg        $fg        $fg      $border
+client.unfocused $unfocusedBorder $unfocusedBorder $fg $unfocusedBorder
+client.focused_inactive $unfocusedBorder $unfocusedBorder $fg $unfocusedBorder
+############################
+# VISUALS.
+############################
+# gaps
+gaps inner 6
+gaps outer 3
+# font
+font pango: JetBrainsMonoNL Nerd Font 10
+## borders
+default_border pixel 2
+titlebar_border_thickness 2
+default_floating_border pixel 2
+
+

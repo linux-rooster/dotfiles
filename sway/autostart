@@ -1,0 +1,7 @@
+###################
+# AUTOSTART.
+###################
+exec swaybg -i ~/.config/sway/sellout.png
+exec dunst &
+exec waybar
+
