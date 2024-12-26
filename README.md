@@ -20,3 +20,7 @@ You can also use them in your own repos.
 <img src="assets/sway.png">
 
 <img src="assets/swaywm.png">
+
+### Wlogout
+
+<img src="assets/wlogout.png">
