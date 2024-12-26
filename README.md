@@ -17,6 +17,6 @@ You can also use them in your own repos.
 - grim and slurp (screenshotting utilities. both are required.)
 ## Screenshots
 ### Sway and Waybar
-[aye](assets/sway.png)
+<img src="assets/sway.png">
 
 [aye](assets/swaywm.png)
