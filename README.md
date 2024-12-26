@@ -24,3 +24,7 @@ You can also use them in your own repos.
 ### Wlogout
 
 <img src="assets/wlogout.png">
+
+### Rofi
+
+<img src="assets/rofi.png">
