@@ -19,4 +19,4 @@ You can also use them in your own repos.
 ### Sway and Waybar
 <img src="assets/sway.png">
 
-[aye](assets/swaywm.png)
+<img src="assets/swaywm.png">
