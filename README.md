@@ -28,3 +28,7 @@ You can also use them in your own repos.
 ### Rofi
 
 <img src="assets/rofi.png">
+
+### Kitty
+
+<img src="assets/kitty.png">
