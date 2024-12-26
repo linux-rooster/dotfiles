@@ -32,3 +32,7 @@ You can also use them in your own repos.
 ### Kitty
 
 <img src="assets/kitty.png">
+
+### Dunst
+
+<img src="assets/dunst.png">
