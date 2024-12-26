@@ -12,4 +12,5 @@ You can also use them in your own repos.
 - thunar (file manager)
 - rofi-wayland (app launcher)
 - wl-clipboard (clipboard for wayland)
+- dunst (notification service)
 - grim and slurp (screenshotting utilities. both are required.)
