@@ -10,6 +10,7 @@ You can also use them in your own repos.
 - wayland-logout (logout button in wlogout)
 - kitty (terminal)
 - thunar (file manager)
+- starship (terminal prompt)
 - rofi-wayland (app launcher)
 - wl-clipboard (clipboard for wayland)
 - dunst (notification service)
