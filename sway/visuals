@@ -1,25 +1,26 @@
 ###########################################################
 # COLOURS.
 #######################################################
-set $bg #282828
-set $unfocusedBorder #433e39
-set $border #dc9260
+set $bg #232323
+set $unfocusedBorder #323232
+set $border #e09969
 set $fg #d4be98
 # order: client.<class> <border> <background> <indicator> <child border>
-client.focused $border      $bg        $fg        $fg      $border
+client.focused #444240      #444240        $fg        $fg      $border
 client.unfocused $unfocusedBorder $unfocusedBorder $fg $unfocusedBorder
 client.focused_inactive $unfocusedBorder $unfocusedBorder $fg $unfocusedBorder
 ############################
 # VISUALS.
 ############################
 # gaps
-gaps inner 6
-gaps outer 3
+gaps inner 7
+gaps outer 1
 # font
-font pango: JetBrainsMonoNL Nerd Font 10
+font pango: JetBrainsMonoNL Nerd Font 11
 ## borders
 default_border pixel 2
 titlebar_border_thickness 2
 default_floating_border pixel 2
-
+# MOUSE CURSOR.
+seat seat0 xcursor_theme Bibata-Modern-Classic
 
