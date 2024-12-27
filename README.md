@@ -15,6 +15,7 @@ You can also use them in your own repos.
 - wl-clipboard (clipboard for wayland)
 - dunst (notification service)
 - grim and slurp (screenshotting utilities. both are required.)
+the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure to download that.
 ## Screenshots
 ### Sway and Waybar
 <img src="assets/sway.png">
