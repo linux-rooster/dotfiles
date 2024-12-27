@@ -18,9 +18,9 @@ You can also use them in your own repos.
 the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure to download that.
 ## Screenshots
 ### Sway and Waybar
-<img src="assets/sway.png">
+<img src="assets/sway1.png">
 
-<img src="assets/swaywm.png">
+<img src="assets/swaywm1.png">
 
 ### Wlogout
 
