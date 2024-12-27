@@ -22,6 +22,8 @@ the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure
 
 <img src="assets/swaywm1.png">
 
+<img src="assets/waybar.png">
+
 ### Wlogout
 
 <img src="assets/wlogout.png">
