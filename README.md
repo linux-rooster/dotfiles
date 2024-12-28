@@ -32,7 +32,7 @@ the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure
 
 <img src="assets/rofi.png">
 
-### Kitty
+### Kitty + Starship
 
 <img src="assets/kitty.png">
 
