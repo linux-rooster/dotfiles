@@ -39,3 +39,9 @@ the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure
 ### Dunst
 
 <img src="assets/dunst.png">
+
+## Neovim
+
+<img src="assets/nvim1.png">
+
+<img src="assets/neovim1.png">
