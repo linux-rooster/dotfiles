@@ -13,8 +13,8 @@ You can also use them in your own repos.\
 - starship (terminal prompt)
 - rofi-wayland (app launcher)
 - wl-clipboard (clipboard for wayland)
-- span style="color: red">dunst (notification service)</span>
-- span style="color: red">grim and slurp (screenshotting utilities. both are required.)\</span>
+- dunst (notification service)</span>
+- grim and slurp (screenshotting utilities. both are required.)\</span>
 the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure to download that.
 ## Screenshots
 ### Sway and Waybar
