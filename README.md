@@ -42,6 +42,6 @@ the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure
 
 ## Neovim
 
-<img src="assets/nvim.png">
+<img src="assets/nvim1.png">
 
 <img src="assets/neovim.png">
