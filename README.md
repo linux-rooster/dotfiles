@@ -5,7 +5,7 @@ These are completely free to reproduce, use as your own, and modify.\
 You can also use them in your own repos.\
 The ones marked as red are required in my swayWM config.
 ## Utilities
-- <span style="color: red">waybar (status bar)</span>
+- <span style="color: #FF0000">waybar (status bar)</span>
 - <span style="color: red">swww (wallpaper utility)</span>
 - <span style="color: red">wlogout (wayland logout menu)</span>
 - <span style="color: red">wayland-logout (logout button in wlogout)</span>
