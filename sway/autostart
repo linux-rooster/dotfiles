@@ -1,0 +1,9 @@
+###################
+# AUTOSTART.
+###################
+exec rm $XDG_RUNTIME_DIR/swww.socket
+exec swww-daemon
+exec swww img ~/.config/sway/sellout.png
+exec dunst &
+exec waybar
+

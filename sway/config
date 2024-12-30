@@ -1,0 +1,10 @@
+# Default config for sway
+#
+# Copy this to ~/.config/sway/config and edit it to your liking.
+#
+# Read `man 5 sway` for a complete reference.
+include $HOME/.config/sway/autostart
+include $HOME/.config/sway/visuals
+include $HOME/.config/sway/variables
+include $HOME/.config/sway/binds
+include /etc/sway/config.d/*
