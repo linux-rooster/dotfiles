@@ -4,17 +4,17 @@ Hope you like these dotfiles.\
 These are completely free to reproduce, use as your own, and modify.\
 You can also use them in your own repos.\
 ## Utilities
-- waybar (status bar)</span>
-- swww (wallpaper utility)</span>
-- wlogout (wayland logout menu)</span>
-- wayland-logout (logout button in wlogout)</span>
-- wezterm (terminal)</span>
-- thunar (file manager)</span>
+- waybar (status bar)
+- swww (wallpaper utility)
+- wlogout (wayland logout menu)
+- wayland-logout (logout button in wlogout)
+- foot (terminal)
+- thunar (file manager)
 - starship (terminal prompt)
 - rofi-wayland (app launcher)
 - wl-clipboard (clipboard for wayland)
-- dunst (notification service)</span>
-- grim and slurp (screenshotting utilities. both are required.)\</span>
+- dunst (notification service)
+- grim and slurp (screenshotting utilities. both are required.)\
 the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure to download that.
 ## Screenshots
 ### Sway and Waybar
@@ -32,9 +32,9 @@ the sway config file also uses Bibata-Modern-Classic xcursor theme, so make sure
 
 <img src="assets/rofi.png">
 
-### Wezterm + Starship
+### Foot + Starship
 
-<img src="assets/wezterm.png">
+<img src="assets/foot.png">
 
 ### Dunst
 
